@@ -1,0 +1,8 @@
+F:\AutomobileSolution\WinFormsApp3\obj\Debug\net8.0-windows\AutomobileWinApp.frmCarDetails.resources
+F:\AutomobileSolution\WinFormsApp3\obj\Debug\net8.0-windows\AutomobileWinApp.frmCarManagement.resources
+F:\AutomobileSolution\WinFormsApp3\obj\Debug\net8.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+F:\AutomobileSolution\WinFormsApp3\obj\Debug\net8.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\AutomobileSolution\WinFormsApp3\obj\Debug\net8.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+F:\AutomobileSolution\WinFormsApp3\obj\Debug\net8.0-windows\AutomobileWinApp.AssemblyInfo.cs
+F:\AutomobileSolution\WinFormsApp3\obj\Debug\net8.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+F:\AutomobileSolution\WinFormsApp3\obj\Debug\net8.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\AutomobileSolution\ClassLibrary1\obj\Debug\net8.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\AutomobileSolution\ClassLibrary1\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfoInputs.cache
+F:\AutomobileSolution\ClassLibrary1\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfo.cs
+F:\AutomobileSolution\ClassLibrary1\obj\Debug\net8.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+F:\AutomobileSolution\ClassLibrary1\bin\Debug\net8.0\AutomobileLibrary.deps.json
+F:\AutomobileSolution\ClassLibrary1\bin\Debug\net8.0\AutomobileLibrary.dll
+F:\AutomobileSolution\ClassLibrary1\bin\Debug\net8.0\AutomobileLibrary.pdb
+F:\AutomobileSolution\ClassLibrary1\obj\Debug\net8.0\AutomobileLibrary.dll
+F:\AutomobileSolution\ClassLibrary1\obj\Debug\net8.0\refint\AutomobileLibrary.dll
+F:\AutomobileSolution\ClassLibrary1\obj\Debug\net8.0\AutomobileLibrary.pdb
+F:\AutomobileSolution\ClassLibrary1\obj\Debug\net8.0\ref\AutomobileLibrary.dll
